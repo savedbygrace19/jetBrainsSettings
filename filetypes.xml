@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="OurEFCoreAdapter" type="F#" />
       <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
